@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         color: "white",
     },
     input: {
-        width: '100%', // Ensure equal length
+        width: '100%',
     },
 });
 
