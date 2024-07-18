@@ -1,6 +1,6 @@
 WELCOME SCREEN
 
-![welcome (2)](https://github.com/user-attachments/assets/ffc8aa20-e60e-4830-acbb-a60f9e0dbd01)
+<img src="[https://github.com/user-attachments/assets/ffc8aa20-e60e-4830-acbb-a60f9e0dbd01]" alt="welcome" width="200"/>
 
 LOGIN SCREEN
 
