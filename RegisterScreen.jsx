@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { View, Text, Button } from 'react-native';
 import CustomTextInput from './CustomTextInput';
-import styles from './styles'; // Import your styles
+import styles from './styles';
 
 const RegisterScreen = () => {
   const [email, setEmail] = useState('');
