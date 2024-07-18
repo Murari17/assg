@@ -6,7 +6,7 @@ const CartSummary = ({ onCheckout }) => {
     const { cartItems } = useContext(CartContext);
     
     const calculateTotal = () => {
-        if (!cartItems) return 0; // Guard against undefined cartItems
+        if (!cartItems) return 0;
         return cartItems.reduce((total, item) => {
             return total + parseInt(item.price.replace(' VP', '')) * item.quantity;
         }, 0);
